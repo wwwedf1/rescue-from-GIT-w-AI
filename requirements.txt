@@ -1,0 +1,2 @@
+openai>=1.0.0
+# 其他依赖包（tkinter, pathlib, configparser等）是Python标准库，无需安装 
